@@ -13,6 +13,9 @@ A simple and interactive web application that recommends movies based on user in
 ## 🛠️ Tech Stack
 
 - **Backend**: Python, Flask
-- **Frontend**: HTML, CSS, Bootstrap (optional)
+- **Frontend**: HTML, CSS, Bootstrap 
 - **Data Processing**: Pandas, Scikit-learn (TfidfVectorizer, Cosine Similarity)
-- **Deployment Ready**: Can be deployed to platforms like Heroku, Render, or Replit.
+
+
+https://github.com/user-attachments/assets/480f9843-d018-497a-b470-6733d5b8414e
+
