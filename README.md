@@ -17,5 +17,7 @@ A simple and interactive web application that recommends movies based on user in
 - **Data Processing**: Pandas, Scikit-learn (TfidfVectorizer, Cosine Similarity)
 
 
-https://github.com/user-attachments/assets/480f9843-d018-497a-b470-6733d5b8414e
+https://github.com/user-attachments/assets/8295075d-a3bf-447a-abab-3cfadff12694
+
+
 
